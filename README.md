@@ -1,7 +1,7 @@
 # Tellonym Checker 🔥
 
 ```bash
-This Checker u can get nice user just u need user list '-' 👋🏻
+This Checker u can get nice username just u need user list '-' 👋🏻
 ```
 
 **If you do not have a list of users, you can go** [**here**](https://github.com/7nun/Wordlist) ⭐
@@ -12,7 +12,7 @@ This Checker u can get nice user just u need user list '-' 👋🏻
 just windows ✔
 ```
     
-## How Download ⚡
+## How to Download ⚡
 - just click download button
 
 - [![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/7nun/CheckerTellonym/archive/refs/heads/main.zip)
