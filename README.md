@@ -4,7 +4,7 @@
 This Checker u can get nice user just u need user list '-' 👋🏻
 ```
 
-**If you do not have a list of users, you can go** [**here**]() ⭐
+**If you do not have a list of users, you can go** [**here**](https://github.com/7nun/CheckerTellonym/archive/refs/heads/main.zip) ⭐
 
 ## Requirements ✨
 
