@@ -15,7 +15,7 @@ just windows ✔
 ## How Download ⚡
 - just click download button
 
-- [![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)]()
+- [![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/7nun/CheckerTellonym/archive/refs/heads/main.zip)
 
 
 ##  The tool photo 🌠
